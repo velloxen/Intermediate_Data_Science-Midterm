@@ -1,0 +1,3 @@
+Teddy: EDA, Slides
+Benjamin OLSON: Data Aquisition and Cleaning, Code Organization, Some Modelling and Analysis
+Max: Modelling and Analysis
