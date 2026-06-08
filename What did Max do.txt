@@ -1,0 +1,1 @@
+ZHANG Dingyu (Max) : buiding multiple linear regression, Lasso regression, Random Forest model, XGBoost model and some analysis
