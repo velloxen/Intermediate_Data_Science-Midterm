@@ -6,19 +6,4 @@ Specific tasks: Created Initial Data Cleaning, Created EDA, Created slides
 
 
 Benjamin OLSON: Data Aquisition and Cleaning, Code Organization, Some Modelling and Analysis
-Max: Modelling and Analysis
-
-
-
-
-You can pick here: (from class slides)
-
-Group Roles
-Suggest roles for effective teamwork:
-Project Manager: Oversees progress and coordination.
-Data Analysis Leader: Leads modeling and analytical work.
-Data Collection & Cleaning Leader: Manages data acquisition and
-preprocessing.
-Presentation Leader: Designs and delivers the group presentation.
-Documentation & Report Writing Leader: Writes the project
-report and maintains proper records.
+ZHANG Dingyu (Max) : buiding multiple linear regression, Lasso regression, Random Forest model, XGBoost model and some analysis
